@@ -7,7 +7,7 @@ This is a Flask-based web application that provides book recommendations. It use
 - Recommend Page: Recommends books based on collaborative filtering, using books from the database such as *1984* and *Animal Farm*.
 
 ## Live Deployment
-The app is deployed on [Render](https://render.com). You can access it live at: https://github.com/18Venus/Next-Lit.git
+The app is deployed on [Render](https://render.com). You can access it live at: https://next-lit.onrender.com
 
 ### Prerequisites
 - Python 3.11 or later
